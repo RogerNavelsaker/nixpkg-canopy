@@ -1,4 +1,4 @@
-# canopy-cli
+# nixpkg-canopy
 
 Nix packaging for `@os-eco/canopy-cli` using Bun and `bun2nix`.
 
