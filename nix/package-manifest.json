@@ -3,7 +3,8 @@
   "package": {
     "repo": "canopy-cli",
     "npmName": "@os-eco/canopy-cli",
-    "version": "0.2.3"
+    "version": "0.2.3",
+    "packageRevision": 1
   },
   "binary": {
     "name": "canopy",
