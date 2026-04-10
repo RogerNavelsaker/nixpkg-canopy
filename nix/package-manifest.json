@@ -1,0 +1,26 @@
+{
+  "stubbed": false,
+  "package": {
+    "repo": "canopy-cli",
+    "npmName": "@os-eco/canopy-cli",
+    "version": "0.2.3",
+    "packageRevision": 1
+  },
+  "binary": {
+    "name": "canopy",
+    "upstreamName": "cn",
+    "entrypoint": "src/index.ts",
+    "aliases": [
+      "cn"
+    ]
+  },
+  "dist": {
+    "url": "https://registry.npmjs.org/@os-eco/canopy-cli/-/canopy-cli-0.2.3.tgz",
+    "hash": "sha512-7O9aEgRZfK+GYh9DBTsTr4E/K1thSiyOIJmXqClcuFRd5gepi1q5FNKjH4bbuhneZncyuC9/xotY7L47BFvuRA=="
+  },
+  "meta": {
+    "description": "Git-native prompt management for AI agent workflows",
+    "homepage": "https://github.com/jayminwest/canopy#readme",
+    "licenseSpdx": "MIT"
+  }
+}
