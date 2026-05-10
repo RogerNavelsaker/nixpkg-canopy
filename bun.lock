@@ -5,7 +5,7 @@
     "": {
       "name": "@rona/nix-canopy-cli",
       "dependencies": {
-        "@os-eco/canopy-cli": "0.2.3",
+        "@os-eco/canopy-cli": "0.2.4",
       },
       "devDependencies": {
         "@types/bun": "^1.3.10",
@@ -14,7 +14,7 @@
     },
   },
   "packages": {
-    "@os-eco/canopy-cli": ["@os-eco/canopy-cli@0.2.3", "", { "dependencies": { "chalk": "^5.6.2", "commander": "^14.0.3" }, "bin": { "cn": "src/index.ts" } }, "sha512-7O9aEgRZfK+GYh9DBTsTr4E/K1thSiyOIJmXqClcuFRd5gepi1q5FNKjH4bbuhneZncyuC9/xotY7L47BFvuRA=="],
+    "@os-eco/canopy-cli": ["@os-eco/canopy-cli@0.2.4", "", { "dependencies": { "chalk": "^5.6.2", "commander": "^14.0.3" }, "bin": { "cn": "src/index.ts" } }, "sha512-0x/+hdqEW6rYW+POzUjgY8KEgE0iA+/u+9tiefJudM1Vak/ZNEaOpiQA5nMBIQQ3WDsDjQY8qpS2nr5jdzRjuQ=="],
 
     "@types/bun": ["@types/bun@1.3.12", "", { "dependencies": { "bun-types": "1.3.12" } }, "sha512-DBv81elK+/VSwXHDlnH3Qduw+KxkTIWi7TXkAeh24zpi5l0B2kUg9Ga3tb4nJaPcOFswflgi/yAvMVBPrxMB+A=="],
 

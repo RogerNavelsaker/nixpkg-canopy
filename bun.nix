@@ -13,9 +13,9 @@
   ...
 }:
 {
-  "@os-eco/canopy-cli@0.2.3" = fetchurl {
-    url = "https://registry.npmjs.org/@os-eco/canopy-cli/-/canopy-cli-0.2.3.tgz";
-    hash = "sha512-7O9aEgRZfK+GYh9DBTsTr4E/K1thSiyOIJmXqClcuFRd5gepi1q5FNKjH4bbuhneZncyuC9/xotY7L47BFvuRA==";
+  "@os-eco/canopy-cli@0.2.4" = fetchurl {
+    url = "https://registry.npmjs.org/@os-eco/canopy-cli/-/canopy-cli-0.2.4.tgz";
+    hash = "sha512-0x/+hdqEW6rYW+POzUjgY8KEgE0iA+/u+9tiefJudM1Vak/ZNEaOpiQA5nMBIQQ3WDsDjQY8qpS2nr5jdzRjuQ==";
   };
   "@types/bun@1.3.12" = fetchurl {
     url = "https://registry.npmjs.org/@types/bun/-/bun-1.3.12.tgz";
