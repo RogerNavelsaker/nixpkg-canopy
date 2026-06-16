@@ -3,7 +3,7 @@
   "package": {
     "repo": "canopy-cli",
     "npmName": "@os-eco/canopy-cli",
-    "version": "0.2.4",
+    "version": "0.2.6",
     "packageRevision": 1
   },
   "binary": {
@@ -15,8 +15,8 @@
     ]
   },
   "dist": {
-    "url": "https://registry.npmjs.org/@os-eco/canopy-cli/-/canopy-cli-0.2.4.tgz",
-    "hash": "sha512-0x/+hdqEW6rYW+POzUjgY8KEgE0iA+/u+9tiefJudM1Vak/ZNEaOpiQA5nMBIQQ3WDsDjQY8qpS2nr5jdzRjuQ=="
+    "url": "https://registry.npmjs.org/@os-eco/canopy-cli/-/canopy-cli-0.2.6.tgz",
+    "hash": "sha512-1UOvihXcF6Jmrg9YuGYpKmJcUMKbQwdybKEWxfyqT8BfE0sF91y70a6tKUM+Nx3+Ehj+2Zr2KUWGKlUvkOo6gg=="
   },
   "meta": {
     "description": "Git-native prompt management for AI agent workflows",
