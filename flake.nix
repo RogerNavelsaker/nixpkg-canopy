@@ -38,11 +38,11 @@
         };
       });
     in {
-      packages = forAllSystems ({ pkgs }: {
+      packages = forAllSystems ({ system, pkgs }: {
         default = pkgs.callPackage ./nix/package.nix { };
       });
 
-      devShells = forAllSystems ({ pkgs }: {
+      devShells = forAllSystems ({ system, pkgs }: {
         default = pkgs.mkShell {
           packages = with pkgs; [
             bun
